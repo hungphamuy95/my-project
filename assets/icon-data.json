@@ -1,0 +1,40 @@
+[{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "RTX 3000",
+    "IconKey": 1
+},
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "RX 6000",
+    "IconKey": 2
+}
+,
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "RTX 2000",
+    "IconKey" : 3
+}
+,
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "RX 5000",
+    "IconKey": 4
+}
+,
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "GTX 1600",
+    "IconKey": 5
+}
+,
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "RX 500",
+    "IconKey": 6
+}
+,
+{
+    "IconName": "require('./../assets/70303-makeup-beauty.json')",
+    "TextName": "GTX 1000",
+    "IconKey": 7
+}]
